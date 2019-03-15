@@ -1,0 +1,18 @@
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\bin\Debug\Domaci5.exe.config
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\obj\x86\Debug\Domaci5.exe
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\obj\x86\Debug\Domaci5.pdb
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\bin\Debug\ProfesorDB.Designer.cs
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\bin\Debug\ProfesorDB.xsc
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\bin\Debug\ProfesorDB.xsd
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\bin\Debug\ProfesorDB.xss
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\bin\Debug\Domaci.mdf
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\bin\Debug\Domaci_log.ldf
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\bin\Debug\Domaci5.exe
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\bin\Debug\Domaci5.pdb
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\obj\x86\Debug\Baza Profesora.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\obj\x86\Debug\Domaci5.Form1.resources
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\obj\x86\Debug\Domaci5.frmIzvestaj.resources
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\obj\x86\Debug\Domaci5.Properties.Resources.resources
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\obj\x86\Debug\Baza Profesora.csproj.GenerateResource.Cache
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\obj\x86\Debug\RdlCompile.cache
+C:\Users\Marko\Desktop\Domaci C#\Domaci5-6-7\Domaci5\obj\x86\Debug\RdlCompile.compiled
